@@ -16,9 +16,8 @@ PATH_PARAM = './2016_Cams01/'
 LOG_PATH = '2016_Cams01_log.txt'
 CAM_LEFT = 0
 CAM_RIGHT = 1`
-# 3 Start
 ```
-#3 Start
+# 3 Start
 ```
 (map_data)$ python 2016_Cams_01_map_all_binaries.py
 ```

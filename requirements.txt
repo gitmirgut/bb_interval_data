@@ -1,0 +1,4 @@
+iso8601
+git+https://github.com/BioroboticsLab/bb_stitcher.git#egg=bb_stitcher
+git+https://github.com/BioroboticsLab/bb_binary.git#egg=bb_binary
+git+https://github.com/BioroboticsLab/bb_convert_binaries.git#egg=bb_convert_binaries

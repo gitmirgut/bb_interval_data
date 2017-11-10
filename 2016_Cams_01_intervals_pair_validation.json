@@ -4,7 +4,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-07-20T10:25:42.147975Z--2016-07-20T10:29:33.027167Z.mkv",
-      "id": 0,
       "info": "manuell connected",
       "stable": true,
       "start_video_name": "Cam_0_2016-07-19T12:37:31.470185Z--2016-07-19T12:38:14.657679Z.mkv",
@@ -14,7 +13,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-07-20T10:26:56.225594Z--2016-07-20T10:29:33.027102Z.mkv",
-      "id": 0,
       "info": "manuell connected",
       "stable": true,
       "start_video_name": "Cam_1_2016-07-19T12:37:31.801910Z--2016-07-19T12:38:14.656075Z.mkv",
@@ -30,7 +28,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-07-24T11:29:03.084464Z--2016-07-24T11:34:42.931128Z.mkv",
-      "id": 1,
       "info": "manuell connected",
       "stable": true,
       "start_video_name": "Cam_0_2016-07-20T10:40:36.396559Z--2016-07-20T10:46:16.242492Z.mkv",
@@ -40,7 +37,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-07-24T11:29:03.084393Z--2016-07-24T11:34:42.931284Z.mkv",
-      "id": 1,
       "info": "manuell connected",
       "stable": true,
       "start_video_name": "Cam_1_2016-07-20T10:40:36.396398Z--2016-07-20T10:46:16.242825Z.mkv",
@@ -56,7 +52,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-07-24T11:34:43.265682Z--2016-07-24T11:40:23.110571Z.mkv",
-      "id": 2,
       "info": "ecc possible movement",
       "stable": false,
       "start_video_name": "Cam_0_2016-07-24T11:34:43.265682Z--2016-07-24T11:40:23.110571Z.mkv",
@@ -66,7 +61,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-07-24T11:34:43.265973Z--2016-07-24T11:40:23.110758Z.mkv",
-      "id": 2,
       "info": "ecc possible movement",
       "stable": false,
       "start_video_name": "Cam_1_2016-07-24T11:34:43.265973Z--2016-07-24T11:40:23.110758Z.mkv",
@@ -82,7 +76,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-07-25T10:47:50.688027Z--2016-07-25T10:53:30.535022Z.mkv",
-      "id": 3,
       "info": "ecc stable",
       "stable": true,
       "start_video_name": "Cam_0_2016-07-24T11:40:23.444951Z--2016-07-24T11:46:03.289876Z.mkv",
@@ -92,7 +85,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-07-25T10:47:51.020343Z--2016-07-25T10:53:30.867294Z.mkv",
-      "id": 3,
       "info": "ecc stable",
       "stable": true,
       "start_video_name": "Cam_1_2016-07-24T11:40:23.443903Z--2016-07-24T11:46:03.290099Z.mkv",
@@ -108,7 +100,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-07-25T10:53:30.870457Z--2016-07-25T10:59:10.713458Z.mkv",
-      "id": 4,
       "info": "ecc possible movement",
       "stable": false,
       "start_video_name": "Cam_0_2016-07-25T10:53:30.870457Z--2016-07-25T10:59:10.713458Z.mkv",
@@ -118,7 +109,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-07-25T10:53:31.199686Z--2016-07-25T10:59:11.045556Z.mkv",
-      "id": 4,
       "info": "ecc possible movement",
       "stable": false,
       "start_video_name": "Cam_1_2016-07-25T10:53:31.199686Z--2016-07-25T10:59:11.045556Z.mkv",
@@ -134,7 +124,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-07-27T13:46:39.163393Z--2016-07-27T13:50:56.620522Z.mkv",
-      "id": 5,
       "info": "manuell connected",
       "stable": true,
       "start_video_name": "Cam_0_2016-07-25T10:59:11.045678Z--2016-07-25T11:04:50.893604Z.mkv",
@@ -144,7 +133,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-07-27T13:46:39.496227Z--2016-07-27T13:50:56.620465Z.mkv",
-      "id": 5,
       "info": "manuell connected",
       "stable": true,
       "start_video_name": "Cam_1_2016-07-25T10:59:11.379029Z--2016-07-25T11:04:51.225284Z.mkv",
@@ -160,7 +148,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-07-27T14:59:16.877336Z--2016-07-27T15:04:56.723083Z.mkv",
-      "id": 6,
       "info": "ecc double movement",
       "stable": false,
       "start_video_name": "Cam_0_2016-07-27T14:59:16.877336Z--2016-07-27T15:04:56.723083Z.mkv",
@@ -170,7 +157,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-07-27T14:59:17.210304Z--2016-07-27T15:04:57.056134Z.mkv",
-      "id": 6,
       "info": "ecc double movement",
       "stable": false,
       "start_video_name": "Cam_1_2016-07-27T14:59:17.210304Z--2016-07-27T15:04:57.056134Z.mkv",
@@ -186,7 +172,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-07-27T16:01:38.847405Z--2016-07-27T16:07:18.692934Z.mkv",
-      "id": 7,
       "info": "manuell connected",
       "stable": true,
       "start_video_name": "Cam_0_2016-07-27T15:04:57.056219Z--2016-07-27T15:10:36.901958Z.mkv",
@@ -196,7 +181,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-07-27T16:01:39.179271Z--2016-07-27T16:07:19.025475Z.mkv",
-      "id": 7,
       "info": "changed after validation",
       "stable": true,
       "start_video_name": "Cam_1_2016-07-27T15:04:57.387879Z--2016-07-27T15:10:37.235565Z.mkv",
@@ -212,7 +196,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-07-27T16:07:19.025546Z--2016-07-27T16:12:58.874289Z.mkv",
-      "id": 8,
       "info": "ecc double movement",
       "stable": false,
       "start_video_name": "Cam_0_2016-07-27T16:07:19.025546Z--2016-07-27T16:12:58.874289Z.mkv",
@@ -237,7 +220,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-07-28T11:06:03.598201Z--2016-07-28T11:11:43.446201Z.mkv",
-      "id": 9,
       "info": "ecc stable",
       "stable": true,
       "start_video_name": "Cam_0_2016-07-27T16:12:59.205354Z--2016-07-27T16:18:39.050062Z.mkv",
@@ -262,7 +244,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-07-28T11:11:43.778974Z--2016-07-28T11:17:23.625132Z.mkv",
-      "id": 10,
       "info": "ecc possible movement",
       "stable": false,
       "start_video_name": "Cam_0_2016-07-28T11:11:43.778974Z--2016-07-28T11:17:23.625132Z.mkv",
@@ -272,7 +253,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-07-28T11:12:45.902851Z--2016-07-28T11:18:25.749365Z.mkv",
-      "id": 8,
       "info": "ecc possible movement",
       "stable": false,
       "start_video_name": "Cam_1_2016-07-28T11:12:45.902851Z--2016-07-28T11:18:25.749365Z.mkv",
@@ -288,7 +268,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-07-29T10:37:09.078228Z--2016-07-29T10:42:13.710859Z.mkv",
-      "id": 11,
       "info": "manuell connected",
       "stable": true,
       "start_video_name": "Cam_0_2016-07-28T11:17:23.958535Z--2016-07-28T11:23:03.804574Z.mkv",
@@ -298,7 +277,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-07-29T10:37:10.075190Z--2016-07-29T10:42:13.713971Z.mkv",
-      "id": 9,
       "info": "manuell connected",
       "stable": true,
       "start_video_name": "Cam_1_2016-07-28T11:18:26.082701Z--2016-07-28T11:24:05.978776Z.mkv",
@@ -314,7 +292,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-07-29T13:09:23.989528Z--2016-07-29T13:15:03.835340Z.mkv",
-      "id": 12,
       "info": "ecc double movement",
       "stable": false,
       "start_video_name": "Cam_0_2016-07-29T13:09:23.989528Z--2016-07-29T13:15:03.835340Z.mkv",
@@ -324,7 +301,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-07-29T13:09:23.989534Z--2016-07-29T13:15:03.835352Z.mkv",
-      "id": 10,
       "info": "ecc double movement",
       "stable": false,
       "start_video_name": "Cam_1_2016-07-29T13:09:23.989534Z--2016-07-29T13:15:03.835352Z.mkv",
@@ -340,7 +316,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-07-29T13:15:04.170947Z--2016-07-29T13:20:44.013919Z.mkv",
-      "id": 13,
       "info": "ecc double movement",
       "stable": false,
       "start_video_name": "Cam_0_2016-07-29T13:15:04.170947Z--2016-07-29T13:20:44.013919Z.mkv",
@@ -350,7 +325,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-07-29T13:15:04.168519Z--2016-07-29T13:20:44.013947Z.mkv",
-      "id": 11,
       "info": "ecc stable",
       "stable": true,
       "start_video_name": "Cam_1_2016-07-29T13:15:04.168519Z--2016-07-29T13:20:44.013947Z.mkv",
@@ -366,7 +340,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-07-29T13:20:44.346866Z--2016-07-29T13:26:24.192453Z.mkv",
-      "id": 14,
       "info": "changed after validation",
       "stable": false,
       "start_video_name": "Cam_0_2016-07-29T13:20:44.346866Z--2016-07-29T13:26:24.192453Z.mkv",
@@ -376,7 +349,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-07-29T13:20:44.347899Z--2016-07-29T13:26:24.192453Z.mkv",
-      "id": 12,
       "info": "ecc possible movement",
       "stable": false,
       "start_video_name": "Cam_1_2016-07-29T13:20:44.347899Z--2016-07-29T13:26:24.192453Z.mkv",
@@ -401,7 +373,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-08-01T09:30:09.037383Z--2016-08-01T09:33:22.712424Z.mkv",
-      "id": 13,
       "info": "manuell connected",
       "stable": true,
       "start_video_name": "Cam_1_2016-07-29T13:26:24.526198Z--2016-07-29T13:32:04.370881Z.mkv",
@@ -417,7 +388,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-08-01T09:50:35.176821Z--2016-08-01T09:51:31.983360Z.mkv",
-      "id": 15,
       "info": "manuell connected",
       "stable": true,
       "start_video_name": "Cam_0_2016-08-01T09:39:14.820484Z--2016-08-01T09:44:54.664688Z.mkv",
@@ -427,7 +397,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-08-01T09:50:35.177105Z--2016-08-01T09:51:31.982887Z.mkv",
-      "id": 14,
       "info": "manuell connected",
       "stable": true,
       "start_video_name": "Cam_1_2016-08-01T09:39:14.818098Z--2016-08-01T09:44:54.667457Z.mkv",
@@ -443,7 +412,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-08-03T10:46:25.848494Z--2016-08-03T10:51:51.077432Z.mkv",
-      "id": 16,
       "info": "manuell connected",
       "stable": true,
       "start_video_name": "Cam_0_2016-08-01T09:54:11.880642Z--2016-08-01T09:59:51.724688Z.mkv",
@@ -453,7 +421,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-08-03T10:46:25.848548Z--2016-08-03T10:51:51.077471Z.mkv",
-      "id": 15,
       "info": "ecc stable",
       "stable": true,
       "start_video_name": "Cam_1_2016-08-01T09:54:11.878237Z--2016-08-01T09:59:51.724774Z.mkv",
@@ -478,7 +445,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-08-03T10:56:32.032477Z--2016-08-03T11:02:11.878831Z.mkv",
-      "id": 16,
       "info": "ecc possible movement",
       "stable": false,
       "start_video_name": "Cam_1_2016-08-03T10:56:32.032477Z--2016-08-03T11:02:11.878831Z.mkv",
@@ -503,7 +469,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-08-03T11:14:10.077634Z--2016-08-03T11:17:04.485290Z.mkv",
-      "id": 17,
       "info": "manuell connected",
       "stable": true,
       "start_video_name": "Cam_1_2016-08-03T11:02:12.211250Z--2016-08-03T11:06:49.270722Z.mkv",
@@ -519,7 +484,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-08-05T10:39:22.492969Z--2016-08-05T10:40:20.628756Z.mkv",
-      "id": 17,
       "info": "manuell connected",
       "stable": true,
       "start_video_name": "Cam_0_2016-08-03T13:11:49.717921Z--2016-08-03T13:17:29.562534Z.mkv",
@@ -529,7 +493,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-08-05T10:39:06.546146Z--2016-08-05T10:40:20.628653Z.mkv",
-      "id": 18,
       "info": "ecc stable",
       "stable": true,
       "start_video_name": "Cam_1_2016-08-03T13:11:48.360014Z--2016-08-03T13:17:28.233244Z.mkv",
@@ -554,7 +517,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-08-05T10:46:53.830115Z--2016-08-05T10:52:33.676588Z.mkv",
-      "id": 19,
       "info": "ecc possible movement",
       "stable": false,
       "start_video_name": "Cam_1_2016-08-05T10:46:53.830115Z--2016-08-05T10:52:33.676588Z.mkv",
@@ -579,7 +541,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-08-19T07:49:42.491908Z--2016-08-19T07:55:22.337780Z.mkv",
-      "id": 20,
       "info": "manuell connected",
       "stable": true,
       "start_video_name": "Cam_1_2016-08-05T10:52:34.009490Z--2016-08-05T10:58:13.855965Z.mkv",
@@ -595,7 +556,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-08-21T16:31:40.875168Z--2016-08-21T16:35:50.030605Z.mkv",
-      "id": 18,
       "info": "manuell connected",
       "stable": true,
       "start_video_name": "Cam_0_2016-08-19T07:55:22.670683Z--2016-08-19T08:01:02.517340Z.mkv",
@@ -629,7 +589,6 @@
     "right": {
       "cam_id": 1,
       "end_video_name": "Cam_1_2016-09-14T14:55:26.303576Z--2016-09-14T14:55:49.225310Z.mkv",
-      "id": 21,
       "info": "last interval",
       "stable": true,
       "start_video_name": "Cam_1_2016-08-21T16:46:43.637656Z--2016-08-21T16:52:23.483112Z.mkv",
@@ -645,7 +604,6 @@
     "left": {
       "cam_id": 0,
       "end_video_name": "Cam_0_2016-09-19T08:40:12.278788Z--2016-09-19T08:45:52.125778Z.mkv",
-      "id": 19,
       "info": "last interval",
       "stable": true,
       "start_video_name": "Cam_0_2016-09-14T15:19:20.096810Z--2016-09-14T15:24:59.943131Z.mkv",
